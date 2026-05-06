@@ -1,0 +1,22 @@
+name: liquid_glass_nav
+description: >-
+  A glassmorphism-style bottom navigation bar for Flutter, inspired by
+  iOS 26 liquid glass design. Supports light/dark themes, badge counts,
+  animated sliding indicator, floating action chip, and full customisation.
+version: 1.1.0
+homepage: https://github.com/vunguyen/liquid_glass_nav
+repository: https://github.com/vunguyen/liquid_glass_nav
+issue_tracker: https://github.com/vunguyen/liquid_glass_nav/issues
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: '>=3.24.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0

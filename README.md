@@ -3,6 +3,7 @@
 A glassmorphism-style bottom navigation bar for Flutter, inspired by the iOS 26 liquid glass design language.
 
 ## Features
+![Example](image-1.png)
 
 - **Animated sliding indicator** — smooth `easeInOutCubic` transition between items (320 ms)
 - **Glassmorphism effect** — `BackdropFilter` blur with customisable sigma
